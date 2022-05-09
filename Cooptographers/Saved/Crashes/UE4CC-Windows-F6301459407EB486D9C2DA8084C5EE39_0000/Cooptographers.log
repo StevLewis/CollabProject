@@ -1,0 +1,1329 @@
+﻿Log file open, 05/06/22 14:40:34
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Cooptographers
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.200778
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/steve/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Apps/Unreal Versions/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Engine.ini]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Engine.ini]
+[2022.05.06-13.40.34:674][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Engine.ini]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Engine.ini]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.05.06-13.40.34:674][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Engine.ini]
+[2022.05.06-13.40.34:674][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Engine.ini]
+[2022.05.06-13.40.34:697][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.06-13.40.34:697][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.06-13.40.34:698][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.06-13.40.34:698][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.05.06-13.40.34:698][  0]LogHAL: Display: Platform has ~ 16 GB [17137164288 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.05.06-13.40.34:698][  0]LogInit: Going up to parent DeviceProfile []
+[2022.05.06-13.40.34:698][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.05.06-13.40.34:698][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Scalability.ini]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.05.06-13.40.34:699][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Engine.ini]
+[2022.05.06-13.40.34:699][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Config/Windows/Editor.ini]
+[2022.05.06-13.40.34:699][  0]LogInit: Computer: STEVENS-PC
+[2022.05.06-13.40.34:699][  0]LogInit: User: steve
+[2022.05.06-13.40.34:699][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.05.06-13.40.34:699][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.05.06-13.40.34:699][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2022.05.06-13.40.34:699][  0]LogMemory: Platform Memory Stats for Windows
+[2022.05.06-13.40.34:699][  0]LogMemory: Process Physical Memory: 136.86 MB used, 136.86 MB peak
+[2022.05.06-13.40.34:699][  0]LogMemory: Process Virtual Memory: 114.89 MB used, 114.89 MB peak
+[2022.05.06-13.40.34:699][  0]LogMemory: Physical Memory: 5628.43 MB used,  10714.84 MB free, 16343.27 MB total
+[2022.05.06-13.40.34:699][  0]LogMemory: Virtual Memory: 134197280.00 MB used,  20448.67 MB free, 134217728.00 MB total
+[2022.05.06-13.40.34:703][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.05.06-13.40.34:743][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.05.06-13.40.34:744][  0]LogInit: Using OS detected language (en-GB).
+[2022.05.06-13.40.34:744][  0]LogInit: Using OS detected locale (en-GB).
+[2022.05.06-13.40.34:751][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2022.05.06-13.40.34:908][  0]LogInit: Setting process to per monitor DPI aware
+[2022.05.06-13.40.34:916][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.05.06-13.40.34:929][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.05.06-13.40.34:929][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.05.06-13.40.35:101][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.06-13.40.35:101][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.05.06-13.40.35:101][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.05.06-13.40.35:101][  0]LogD3D11RHI: D3D11 adapters:
+[2022.05.06-13.40.35:179][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2022.05.06-13.40.35:179][  0]LogD3D11RHI:       11127/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.05.06-13.40.35:182][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.05.06-13.40.35:182][  0]LogD3D11RHI:       0/0/8171 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.05.06-13.40.35:182][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.05.06-13.40.35:187][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.05.06-13.40.35:187][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2022.05.06-13.40.35:187][  0]LogWindows: EnumDisplayDevices:
+[2022.05.06-13.40.35:187][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2022.05.06-13.40.35:187][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:1)
+[2022.05.06-13.40.35:187][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2022.05.06-13.40.35:188][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2022.05.06-13.40.35:188][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.05.06-13.40.35:188][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2022.05.06-13.40.35:188][  0]LogD3D11RHI:   Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+[2022.05.06-13.40.35:188][  0]LogD3D11RHI:      Driver Date: 2-10-2022
+[2022.05.06-13.40.35:188][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2022.05.06-13.40.35:235][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.05.06-13.40.35:235][  0]LogD3D11RHI: Async texture creation enabled
+[2022.05.06-13.40.35:235][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.05.06-13.40.35:256][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.05.06-13.40.35:257][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.05.06-13.40.35:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.05.06-13.40.35:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.05.06-13.40.35:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.05.06-13.40.35:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.05.06-13.40.35:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.05.06-13.40.35:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.05.06-13.40.35:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.05.06-13.40.35:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.05.06-13.40.35:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.05.06-13.40.35:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.05.06-13.40.35:517][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.05.06-13.40.35:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.05.06-13.40.35:536][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.05.06-13.40.35:545][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.05.06-13.40.35:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.05.06-13.40.35:564][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.05.06-13.40.35:572][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.05.06-13.40.35:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.05.06-13.40.35:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.05.06-13.40.35:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.05.06-13.40.35:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.05.06-13.40.35:616][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.05.06-13.40.35:623][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.05.06-13.40.35:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.05.06-13.40.35:638][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.05.06-13.40.35:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.05.06-13.40.35:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.05.06-13.40.35:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.05.06-13.40.35:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.05.06-13.40.35:674][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.05.06-13.40.35:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.05.06-13.40.35:689][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.05.06-13.40.35:689][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.05.06-13.40.35:696][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.05.06-13.40.35:756][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.05.06-13.40.35:756][  0]LogShaderCompilers: Guid format shader working directory is -68 characters bigger than the processId version (../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Intermediate/Shaders/WorkingDirectory/17228/).
+[2022.05.06-13.40.35:756][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/steve/AppData/Local/Temp/UnrealShaderWorkingDir/742DE55C45200E84D361AABFF95E85B7/'.
+[2022.05.06-13.40.35:756][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.05.06-13.40.35:756][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.05.06-13.40.36:403][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.05.06-13.40.36:450][  0]LogDerivedDataCache: Loaded boot cache 0.05s 77MB C:/Users/steve/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.06-13.40.36:450][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/steve/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.05.06-13.40.36:451][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.05.06-13.40.36:451][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.05.06-13.40.36:451][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.06-13.40.36:451][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.05.06-13.40.36:461][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.05.06-13.40.36:461][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.05.06-13.40.36:461][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.05.06-13.40.36:467][  0]LogDerivedDataCache: Speed tests for D:/Apps/Epic Games/LocalDerivedDataCache took 0.01 seconds
+[2022.05.06-13.40.36:467][  0]LogDerivedDataCache: Display: Performance to D:/Apps/Epic Games/LocalDerivedDataCache: Latency=0.06ms. RandomReadSpeed=931.27MBs, RandomWriteSpeed=180.48MBs. Assigned SpeedClass 'Local'
+[2022.05.06-13.40.36:468][  0]LogDerivedDataCache: Using Local data cache path D:/Apps/Epic Games/LocalDerivedDataCache: Writable
+[2022.05.06-13.40.36:538][  0]LogDerivedDataCache: Speed tests for D:/Apps/Epic Games/SharedDerivedDataCache took 0.07 seconds
+[2022.05.06-13.40.36:538][  0]LogDerivedDataCache: Display: Performance to D:/Apps/Epic Games/SharedDerivedDataCache: Latency=0.14ms. RandomReadSpeed=607.08MBs, RandomWriteSpeed=14.10MBs. Assigned SpeedClass 'Local'
+[2022.05.06-13.40.36:538][  0]LogDerivedDataCache: Using Shared data cache path D:/Apps/Epic Games/SharedDerivedDataCache: Writable
+[2022.05.06-13.40.36:578][  0]LogSlate: Using FreeType 2.10.0
+[2022.05.06-13.40.36:579][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.05.06-13.40.36:602][  0]LogAssetRegistry: FAssetRegistry took 0.0028 seconds to start up
+[2022.05.06-13.40.36:807][  0]LogInit: Selected Device Profile: [Windows]
+[2022.05.06-13.40.36:807][  0]LogInit: Active device profile: [00000164A29CB500][00000164A1D20440 49] Windows
+[2022.05.06-13.40.36:807][  0]LogInit: Profiles: [00000164A29CB500][00000164A1D20440 49] Windows, [00000164A2990C00][00000164A1D285C0 49] WindowsNoEditor, [00000164A29C8E00][00000164A1D2C740 49] WindowsServer, [00000164A2992F00][00000164A1D308C0 49] WindowsClient, [00000164A29CB000][00000164A1D34A40 49] IOS, [00000164A2991100][00000164A1D38BC0 49] iPadAir, [00000164A29C9200][00000164A1D3CD40 49] iPadAir2, [00000164A293CB00][00000164A1D45000 49] IPadPro, [00000164A293CC00][00000164A1D41040 49] iPadAir3, [00000164A29CAB00][00000164A1D491C0 49] iPadAir4, [00000164A293F800][00000164A1D4D340 49] iPadMini2, [00000164A29C9300][00000164A2D614C0 49] iPadMini3, [00000164A293DF00][00000164A2D65640 49] iPadMini4, [00000164A29CA700][00000164A1D25780 49] iPadMini5, [00000164A2992700][00000164A2D6D9C0 49] iPhone6, [00000164A2993300][00000164A2D69A00 49] iPodTouch6, [00000164A293F300][00000164A2D79C80 49] iPhone7, [00000164A293FC00][00000164A2D71CC0 49] iPodTouch7, [00000164A2993100][00000164A2D7C180 49] iPhone5S, [00000164A293FD00][00000164A2D80300 49] iPhone6Plus, [00000164A2993000][00000164A2D84480 49] iPhone6S, [00000164A293E200][00000164A2D88600 49] iPhone6SPlus, [00000164A2990200][00000164A2D8C780 49] iPhone7Plus, [00000164A293DE00][00000164A2D90900 49] iPhoneSE, [00000164A2991500][00000164A2D94A80 49] iPhone8, [00000164A293C200][00000164A2D98C00 49] iPhone8Plus, [00000164A2991E00][00000164A2D9CD80 49] iPhoneX, [00000164A293D700][00000164A2DA0F00 49] iPhoneXS, [00000164A2991400][00000164A2DA5080 49] iPhoneXSMax, [00000164A293E000][00000164A2DA9200 49] iPhoneXR, [00000164A2990100][00000164A2DAD380 49] iPhone11, [00000164A293C500][00000164A2DB1500 49] iPhone11Pro, [00000164A2990400][00000164A2DB5680 49] iPhone11ProMax, [00000164A293D000][00000164A2D757C0 49] iPhoneSE2, [00000164A2990A00][00000164A2DB9900 49] iPhone12Mini, [00000164A293D300][00000164A2DBDA40 49] iPhone12, [00000164A2993F00][00000164A2DC1B80 49] iPhone12Pro, [00000164A293FB00][00000164A2DC9D00 49] iPhone12ProMax, [00000164A2991200][00000164A2DCC1C0 49] iPadPro105, [00000164A293DA00][00000164A2DD0340 49] iPadPro129, [00000164A2993700][00000164A2DD44C0 49] iPadPro97, [00000164A293E700][00000164A2DD8640 49] iPadPro2_129, [00000164A2993900][00000164A2DEE7C0 49] iPad5, [00000164A293DC00][00000164A2DFA940 49] iPad6, [00000164A2993A00][00000164A2E0EAC0 49] iPad7, [00000164A293F500][00000164A2E1AC40 49] iPad8, [00000164A2992000][00000164A2E1EDC0 49] iPadPro11, [00000164A293E600][00000164A2E62F40 49] iPadPro2_11, [00000164A2990B00][00000164A30910C0 49] iPadPro3_129, [00000164A293C600][00000164A30B9240 49] iPadPro4_129, [00000164A2993E00][00000164A30BD3C0 49] AppleTV, [00000164A293C800][00000164A30C1540 49] AppleTV4K, [00000164A2990F00][00000164A30C96C0 49] TVOS, [00000164A293C900][00000164A30CD840 49] Mac, [00000164A2992D00][00000164A2DC5980 49] MacClient, [00000164A293F700][00000164A30DBAC0 49] MacNoEditor, [00000164A2990500][00000164A30E7C00 49] MacServer, [00000164A2A18500][00000164A30EE0C0 49] Linux, [00000164A29CBE00][00000164A30FE240 49] LinuxAArch64, [00000164A2A19500][00000164A31023C0 49] LinuxNoEditor, [00000164A29CBB00][00000164A3106540 49] LinuxAArch64NoEditor, [00000164A2A19600][00000164A310A6C0 49] LinuxClient, [00000164A29C9D00][00000164A310E840 49] LinuxAArch64Client, [00000164A2A19400][00000164A31129C0 49] LinuxServer, [00000164A29CBC00][00000164A3116B40 49] LinuxAArch64Server, [00000164A2A19200][00000164A311ACC0 49] Android, [00000164A29C8100][00000164A313EE40 49] Android_Low, [00000164A2A18F00][00000164A3142FC0 49] Android_Mid, [00000164A29C8500][00000164A3147140 49] Android_High, [00000164A2A19000][00000164A314B2C0 49] Android_Default, [00000164A29CB700][00000164A314F440 49] Android_Adreno4xx, [00000164A2A18100][00000164A31535C0 49] Android_Adreno5xx_Low, [00000164A29C9E00][00000164A3157740 49] Android_Adreno5xx, [00000164A2991800][00000164A315B8C0 49] Android_Adreno6xx, [00000164A29CA100][00000164A30EBA00 49] Android_Adreno6xx_Vulkan, [00000164A2A18400][00000164A39D7B40 49] Android_Mali_T6xx, [00000164A293FE00][00000164A39DBC80 49] Android_Mali_T7xx, [00000164A29C9100][00000164A39DE100 49] Android_Mali_T8xx, [00000164A2992900][00000164A39E6280 49] Android_Mali_G71, [00000164A29C9400][00000164A39EA400 49] Android_Mali_G72, [00000164A2992C00][00000164A39EE580 49] Android_Mali_G72_Vulkan, [00000164A29C9C00][00000164A39F2700 49] Android_Mali_G76, [00000164A2993C00][00000164A39F6880 49] Android_Mali_G76_Vulkan, [00000164A29CA800][00000164A39FAA00 49] Android_Mali_G77, [00000164A2991D00][00000164A39FEB80 49] Android_Mali_G77_Vulkan, [00000164A29CB900][00000164A3A02D00 49] Android_Vulkan_SM5, [00000164A2991B00][00000164A3A06E80 49] Android_PowerVR_G6xxx, [00000164A29C9600][00000164A3A47000 49] Android_PowerVR_GT7xxx, [00000164A2993D00][00000164A3A4B180 49] Android_PowerVR_GE8xxx, [00000164A29C9B00][00000164A3A4F300 49] Android_PowerVR_GM9xxx, [00000164A2993800][00000164A3A53480 49] Android_PowerVR_GM9xxx_Vulkan, [00000164A29CBD00][00000164A3A57600 49] Android_TegraK1, [00000164A2992500][00000164A3A5B780 49] Android_Unknown_Vulkan, [00000164A29C8C00][00000164A3A5F900 49] Lumin, [00000164A2993200][00000164A39E3A40 49] Lumin_Desktop, [00000164A29C9000][00000164A3A63B80 49] HoloLens, 
+[2022.05.06-13.40.36:898][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.05.06-13.40.36:898][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.05.06-13.40.36:898][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.05.06-13.40.36:898][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.05.06-13.40.36:898][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.05.06-13.40.36:913][  0]LogNetVersion: Cooptographers 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1488250989)
+[2022.05.06-13.40.37:305][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.05.06-13.40.37:345][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.039795 seconds
+[2022.05.06-13.40.37:350][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.05.06-13.40.37:350][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.05.06-13.40.37:350][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.05.06-13.40.37:683][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.05.06-13.40.37:687][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.05.06-13.40.37:758][  0]SourceControl: Source control is disabled
+[2022.05.06-13.40.37:758][  0]SourceControl: Source control is disabled
+[2022.05.06-13.40.37:760][  0]SourceControl: Source control is disabled
+[2022.05.06-13.40.37:763][  0]SourceControl: Source control is disabled
+[2022.05.06-13.40.37:771][  0]SourceControl: Source control is disabled
+[2022.05.06-13.40.37:776][  0]LogUProjectInfo: Found projects:
+[2022.05.06-13.40.37:986][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.06-13.40.38:000][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.06-13.40.38:000][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.06-13.40.38:045][  0]LogCollectionManager: Loaded 0 collections in 0.000696 seconds
+[2022.05.06-13.40.38:069][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Collections/' took 0.00s
+[2022.05.06-13.40.38:069][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Developers/steve/Collections/' took 0.00s
+[2022.05.06-13.40.38:069][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Collections/' took 0.00s
+[2022.05.06-13.40.38:069][  0]LogOcInput: OculusInput pre-init called
+[2022.05.06-13.40.38:083][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.05.06-13.40.38:083][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.05.06-13.40.38:120][  0]LogEngine: Initializing Engine...
+[2022.05.06-13.40.38:121][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.06-13.40.38:121][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.05.06-13.40.38:122][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.06-13.40.38:209][  0]LogLinker: Warning: Failed to load '/Game/Tech/Blueprints/UI/WB_MouseCursor': Can't find file.
+[2022.05.06-13.40.38:209][  0]LogLinker: Warning: Failed to load '/Game/Tech/Blueprints/UI/WB_MouseCursor': Can't find file.
+[2022.05.06-13.40.38:210][  0]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Tech/Blueprints/UI/WB_MouseCursor.WB_MouseCursor_C'
+[2022.05.06-13.40.38:210][  0]LogLoad: Warning: UUserInterfaceSettings::ForceLoadResources: Failed to load cursor resource 0.
+[2022.05.06-13.40.38:210][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.06-13.40.38:216][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.06-13.40.38:227][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.06-13.40.38:230][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.06-13.40.38:230][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.06-13.40.38:230][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.06-13.40.38:230][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.06-13.40.38:230][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.06-13.40.38:230][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.06-13.40.38:230][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.06-13.40.38:230][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.06-13.40.38:230][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.06-13.40.38:230][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.06-13.40.38:231][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.05.06-13.40.38:231][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.06-13.40.38:247][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.06-13.40.38:247][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.06-13.40.38:267][  0]LogAudioMixer: Display: Using Audio Device VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)
+[2022.05.06-13.40.38:269][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.06-13.40.38:271][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.06-13.40.38:271][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.06-13.40.38:272][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.06-13.40.38:272][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.06-13.40.38:272][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.06-13.40.38:276][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.06-13.40.38:276][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.06-13.40.38:276][  0]LogInit: FAudioDevice initialized.
+[2022.05.06-13.40.38:276][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.06-13.40.38:276][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.06-13.40.38:340][  0]LogDerivedDataCache: Saved boot cache 0.06s 77MB C:/Users/steve/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.05.06-13.40.38:341][  0]LogInit: Texture streaming: Enabled
+[2022.05.06-13.40.38:352][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.05.06-13.40.38:355][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.06-13.40.38:355][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={1B1D893E-45EF-B7A0-A2E5-57824181B3D9}
+[2022.05.06-13.40.38:355][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.05.06-13.40.38:356][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.05.06-13.40.38:380][  0]LogInit: Transaction tracking system initialized
+[2022.05.06-13.40.38:398][  0]BlueprintLog: New page: Editor Load
+[2022.05.06-13.40.38:458][  0]LocalizationService: Localization service is disabled
+[2022.05.06-13.40.38:478][  0]TimingProfiler: Initialize
+[2022.05.06-13.40.38:478][  0]TimingProfiler: OnSessionChanged
+[2022.05.06-13.40.38:478][  0]LoadingProfiler: Initialize
+[2022.05.06-13.40.38:478][  0]LoadingProfiler: OnSessionChanged
+[2022.05.06-13.40.38:478][  0]NetworkingProfiler: Initialize
+[2022.05.06-13.40.38:478][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.06-13.40.38:478][  0]MemoryProfiler: Initialize
+[2022.05.06-13.40.38:478][  0]MemoryProfiler: OnSessionChanged
+[2022.05.06-13.40.38:605][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.05.06-13.40.38:605][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.06-13.40.38:733][  0]LogFileCache: Scanning file cache for directory 'D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/' took 0.01s
+[2022.05.06-13.40.38:900][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.06-13.40.38:903][  0]SourceControl: Source control is disabled
+[2022.05.06-13.40.38:903][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.325
+[2022.05.06-13.40.38:904][  0]LightingResults: New page: Lighting Build
+[2022.05.06-13.40.38:904][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-13.40.38:904][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.40.38:904][  0]MapCheck: New page: Map Check
+[2022.05.06-13.40.38:904][  0]LightingResults: New page: Lighting Build
+[2022.05.06-13.40.38:910][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.05.06-13.40.39:386][  0]LogBlueprint: Warning: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] Input pin  Selection  specifying non-default value no longer exists on node  Init . Please refresh node or reset pin to default value to remove pin.
+[2022.05.06-13.40.39:747][  0]LogStaticMesh: Building static mesh Shape_Cone...
+[2022.05.06-13.40.39:749][  0]LogStaticMesh: Built static mesh [0.08s] /Game/StarterContent/Shape_Cone.Shape_Cone
+[2022.05.06-13.40.39:794][  0]LogStaticMesh: Building static mesh 1M_Cube...
+[2022.05.06-13.40.39:795][  0]LogStaticMesh: Built static mesh [0.03s] /Game/StarterContent/1M_Cube.1M_Cube
+[2022.05.06-13.40.40:029][  0]LogStaticMesh: Building static mesh Shape_Torus...
+[2022.05.06-13.40.40:042][  0]LogStaticMesh: Built static mesh [0.13s] /Game/StarterContent/Shape_Torus.Shape_Torus
+[2022.05.06-13.40.40:265][  0]LogStaticMesh: Building static mesh Shape_Cylinder...
+[2022.05.06-13.40.40:269][  0]LogStaticMesh: Built static mesh [0.12s] /Game/StarterContent/Shape_Cylinder.Shape_Cylinder
+[2022.05.06-13.40.40:430][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_MainMenu'.
+[2022.05.06-13.40.40:431][  0]LogAIModule: Creating AISystem for world L_MainMenu
+[2022.05.06-13.40.40:449][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.05.06-13.40.40:450][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 1.0.
+[2022.05.06-13.40.40:464][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.05.06-13.40.40:464][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.05.06-13.40.40:464][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.25ms to complete.
+[2022.05.06-13.40.40:464][  0]LogFileHelpers: Loading map 'L_MainMenu' took 1.561
+[2022.05.06-13.40.40:466][  0]LogUnrealEdMisc: Total Editor Startup Time, took 6.888
+[2022.05.06-13.40.40:596][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.40.40:601][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.40.40:606][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.40.40:610][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.06-13.40.40:622][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0077 seconds. Added 3601 classes and 859 folders.
+[2022.05.06-13.40.40:624][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.05.06-13.40.40:626][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.06-13.40.40:626][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:626][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.06-13.40.40:626][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2022.05.06-13.40.40:627][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.06-13.40.40:627][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:627][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.06-13.40.40:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.05.06-13.40.40:628][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.05.06-13.40.40:628][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:628][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.05.06-13.40.40:628][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.05.06-13.40.40:629][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.06-13.40.40:629][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:629][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.06-13.40.40:629][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2022.05.06-13.40.40:630][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.06-13.40.40:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.06-13.40.40:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.05.06-13.40.40:630][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.06-13.40.40:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.06-13.40.40:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.05.06-13.40.40:631][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.06-13.40.40:631][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:631][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.06-13.40.40:631][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2022.05.06-13.40.40:632][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.06-13.40.40:632][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:632][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.06-13.40.40:632][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.05.06-13.40.40:633][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.06-13.40.40:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.06-13.40.40:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.05.06-13.40.40:633][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.05.06-13.40.40:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.05.06-13.40.40:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.05.06-13.40.40:634][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.05.06-13.40.40:634][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:634][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.05.06-13.40.40:634][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.05.06-13.40.40:635][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.06-13.40.40:635][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:635][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.06-13.40.40:635][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.05.06-13.40.40:636][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.06-13.40.40:636][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:636][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.06-13.40.40:636][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.05.06-13.40.40:637][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.06-13.40.40:637][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:637][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.06-13.40.40:637][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.05.06-13.40.40:637][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.05.06-13.40.40:637][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:637][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.05.06-13.40.40:637][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.05.06-13.40.40:638][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.06-13.40.40:638][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:638][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.06-13.40.40:638][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2022.05.06-13.40.40:639][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.05.06-13.40.40:639][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:639][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.05.06-13.40.40:639][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.05.06-13.40.40:640][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.06-13.40.40:640][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:640][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.06-13.40.40:640][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.05.06-13.40.40:641][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.06-13.40.40:641][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:641][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.06-13.40.40:641][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.05.06-13.40.40:641][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.06-13.40.40:641][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:641][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.06-13.40.40:641][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.05.06-13.40.40:642][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.05.06-13.40.40:642][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:642][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.05.06-13.40.40:642][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.05.06-13.40.40:643][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.05.06-13.40.40:643][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:643][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.05.06-13.40.40:643][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.05.06-13.40.40:644][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.05.06-13.40.40:644][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:644][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.05.06-13.40.40:644][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.05.06-13.40.40:645][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.05.06-13.40.40:645][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:645][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.05.06-13.40.40:645][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.05.06-13.40.40:645][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.05.06-13.40.40:645][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:645][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.05.06-13.40.40:645][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.05.06-13.40.40:646][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.05.06-13.40.40:646][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.05.06-13.40.40:646][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.05.06-13.40.40:646][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.05.06-13.40.40:699][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.05.06-13.40.40:702][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.05.06-13.40.40:787][  0]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.05.06-13.40.40:788][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.05.06-13.40.40:791][  0]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.05.06-13.40.40:873][  0]LogRenderer: Reallocating scene render targets to support 1184x536 Format 10 NumSamples 1 (Frame:1).
+[2022.05.06-13.40.40:963][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.05.06-13.40.40:963][  0]LogLoad: (Engine Initialization) Total time: 7.38 seconds
+[2022.05.06-13.40.40:963][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.05.06-13.40.40:963][  0]LogInit: First time updating LLM stats...
+[2022.05.06-13.40.41:014][  0]LogAssetRegistry: Asset discovery search completed in 4.4122 seconds
+[2022.05.06-13.40.41:015][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.05.06-13.40.41:081][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.05.06-13.40.41:116][  1]LogRenderer: Reallocating scene render targets to support 1184x556 Format 10 NumSamples 1 (Frame:2).
+[2022.05.06-13.40.41:318][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/' took 0.34s
+[2022.05.06-13.40.41:681][  2]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.06-13.40.42:930][ 17]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2022.05.06-13.40.47:489][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.05.06-13.40.48:985][492]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.06-13.40.52:491][492]LogSlate: Window 'Replace References?' being destroyed
+[2022.05.06-13.40.52:495][492]Message dialog closed, result: Ok, title: Replace References?, text: This will replace any reference to the pending deleted assets with E_Player; and then delete them.
+
+Are you sure?
+[2022.05.06-13.40.52:495][492]LogSlate: Window 'Delete Assets' being destroyed
+[2022.05.06-13.40.52:498][492]LogEnum: Warning: Enum name collision: 'E_Player::NewEnumerator1' is in both '/Game/Tech/Blueprints/Characters/E_Player.E_Player' and '/Game/Tech/Blueprints/Gamemode/E_Player.E_Player'
+[2022.05.06-13.40.52:498][492]LogEnum: Warning: Enum name collision: 'E_Player::NewEnumerator0' is in both '/Game/Tech/Blueprints/Characters/E_Player.E_Player' and '/Game/Tech/Blueprints/Gamemode/E_Player.E_Player'
+[2022.05.06-13.40.52:498][492]LogEnum: Warning: Enum name collision: 'E_Player::NewEnumerator1' is in both '/Game/Tech/Blueprints/Characters/E_Player.E_Player' and '/Game/Tech/Blueprints/Gamemode/E_Player.E_Player'
+[2022.05.06-13.40.52:498][492]LogEnum: Warning: Enum name collision: 'E_Player::NewEnumerator0' is in both '/Game/Tech/Blueprints/Characters/E_Player.E_Player' and '/Game/Tech/Blueprints/Gamemode/E_Player.E_Player'
+[2022.05.06-13.40.52:866][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.05.06-13.40.53:524][492]LogSlate: Window 'Save Content' being destroyed
+[2022.05.06-13.40.53:710][492]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_BaseCharacter1D564AF34C739A945CF7E598CAF97104.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Characters/BP_BaseCharacter.uasset'
+[2022.05.06-13.40.53:712][492]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/E_Player3C7FC21C4C5D32C133CF5394B3FD57FB.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Gamemode/E_Player.uasset'
+[2022.05.06-13.40.53:841][492]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/GM_GameplayD8D391BA416F29279962E8A985819707.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Gamemode/GM_Gameplay.uasset'
+[2022.05.06-13.40.53:867][492]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/WB_MainHud641E9D954ACA37C0311B39BEA89AEB0F.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Widgets/WB_MainHud.uasset'
+[2022.05.06-13.40.53:879][492]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-13.40.53:879][492]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Characters/BP_BaseCharacter.BP_BaseCharacter
+[2022.05.06-13.40.53:880][492]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Gamemode/GM_Gameplay.GM_Gameplay
+[2022.05.06-13.40.53:880][492]LogContentValidation: Display: Validating WidgetBlueprint /Game/Tech/Blueprints/Widgets/WB_MainHud.WB_MainHud
+[2022.05.06-13.40.53:880][492]LogContentValidation: Display: Validating ObjectRedirector /Game/Tech/Blueprints/Gamemode/E_Player.E_Player
+[2022.05.06-13.40.54:811][600]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Tech/Blueprints/Characters/E_Player.E_Player
+[2022.05.06-13.40.56:611][790]LogSlate: Window 'E_Player' being destroyed
+[2022.05.06-13.41.05:660][797]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tech/Blueprints/Gamemode/GM_Gameplay.GM_Gameplay
+[2022.05.06-13.41.05:856][797]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.05.06-13.41.06:651][797]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.05.06-13.41.06:683][797]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.05.06-13.41.06:724][798]LogSlate: Took 0.000323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.05.06-13.41.08:789][993]LogSlate: Window 'GM_Gameplay' being destroyed
+[2022.05.06-13.41.09:184][ 39]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.41.09:197][ 39]LogBlueprint: Warning: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] Input pin  Selection  specifying non-default value no longer exists on node  Init . Please refresh node or reset pin to default value to remove pin.
+[2022.05.06-13.41.09:218][ 39]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.41.09:218][ 39]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.41.09:220][ 39]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.41.09:220][ 39]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.41.09:306][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.05.06-13.41.10:176][122]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Tech/Blueprints/Widgets/WB_MainHud.WB_MainHud
+[2022.05.06-13.41.32:384][647]BlueprintLog: New page: Compile WB_MainHud
+[2022.05.06-13.41.32:444][647]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.05.06-13.41.32:502][647]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/WB_MainHud0806B2AA4E69F98DE2EEA3B49D128912.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Widgets/WB_MainHud.uasset'
+[2022.05.06-13.41.32:514][647]AssetCheck: New page: Asset Save: WB_MainHud
+[2022.05.06-13.41.32:514][647]LogContentValidation: Display: Validating WidgetBlueprint /Game/Tech/Blueprints/Widgets/WB_MainHud.WB_MainHud
+[2022.05.06-13.41.34:913][927]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-13.41.34:913][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.41.34:922][927]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-13.41.34:922][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.41.40:345][536]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.41.40:368][536]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.41.40:368][536]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.41.40:420][536]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.05.06-13.41.47:894][409]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2022.05.06-13.41.48:035][409]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/GM_GameplayFA4B9A0648493444DBFD5B806FA54FB3.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Gamemode/GM_Gameplay.uasset'
+[2022.05.06-13.41.48:046][409]AssetCheck: New page: Asset Save: GM_Gameplay
+[2022.05.06-13.41.48:046][409]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Gamemode/GM_Gameplay.GM_Gameplay
+[2022.05.06-13.42.03:548][211]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tech/Blueprints/Controllers/BP_PlayerController.BP_PlayerController
+[2022.05.06-13.42.11:243][ 87]BlueprintLog: New page: Compile BP_PlayerController
+[2022.05.06-13.42.11:292][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.05.06-13.42.11:340][ 87]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_PlayerControllerAEE35F41423D4B3077AB6E96E992F080.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Controllers/BP_PlayerController.uasset'
+[2022.05.06-13.42.11:354][ 87]AssetCheck: New page: Asset Save: BP_PlayerController
+[2022.05.06-13.42.11:354][ 87]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Controllers/BP_PlayerController.BP_PlayerController
+[2022.05.06-13.42.20:985][227]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.05.06-13.42.25:520][722]BlueprintLog: New page: Compile BP_PlayerController
+[2022.05.06-13.42.25:545][722]LogClass: Warning: Type mismatch in PlayerIndex of BP_PlayerController_C - Previous (BoolProperty) Current(ByteProperty) for package:  FObjectReader
+[2022.05.06-13.42.25:545][722]LogBlueprint: Warning: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Controllers\BP_PlayerController.uasset: [Compiler] Can't parse default value 'False' for  . Property: PlayerIndex.
+[2022.05.06-13.42.25:586][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.05.06-13.42.25:624][722]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_PlayerController8A07074F4DAD15257D3A5E9DA85903FF.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Controllers/BP_PlayerController.uasset'
+[2022.05.06-13.42.25:637][722]AssetCheck: New page: Asset Save: BP_PlayerController
+[2022.05.06-13.42.25:637][722]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Controllers/BP_PlayerController.BP_PlayerController
+[2022.05.06-13.42.59:771][809]BlueprintLog: New page: Compile BP_PlayerController
+[2022.05.06-13.42.59:820][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.05.06-13.42.59:860][809]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_PlayerController589AA354482F60A62DA05F929563D585.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Controllers/BP_PlayerController.uasset'
+[2022.05.06-13.42.59:872][809]AssetCheck: New page: Asset Save: BP_PlayerController
+[2022.05.06-13.42.59:872][809]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Controllers/BP_PlayerController.BP_PlayerController
+[2022.05.06-13.43.10:432][ 50]LogBlueprint: Warning: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Controllers\BP_PlayerController.uasset: [Compiler] Variable PlayerIndex is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2022.05.06-13.43.12:205][252]BlueprintLog: New page: Compile BP_PlayerController
+[2022.05.06-13.43.12:206][252]LogBlueprint: Warning: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Controllers\BP_PlayerController.uasset: [Compiler] Variable PlayerIndex is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2022.05.06-13.43.12:208][252]LogBlueprint: Warning: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Controllers\BP_PlayerController.uasset: [Compiler] Variable PlayerIndex is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2022.05.06-13.43.12:253][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.05.06-13.43.14:372][490]BlueprintLog: New page: Compile BP_PlayerController
+[2022.05.06-13.43.14:420][490]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.05.06-13.43.14:460][490]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_PlayerControllerB153393D4EF304F629787DA08D630A35.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Controllers/BP_PlayerController.uasset'
+[2022.05.06-13.43.14:473][490]AssetCheck: New page: Asset Save: BP_PlayerController
+[2022.05.06-13.43.14:473][490]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Controllers/BP_PlayerController.BP_PlayerController
+[2022.05.06-13.43.17:255][809]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.43.17:278][809]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.43.17:278][809]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.43.17:328][809]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.05.06-13.43.20:430][166]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.43.20:453][166]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.43.20:453][166]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.43.20:504][166]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.05.06-13.43.47:275][902]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.43.47:299][902]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.43.47:299][902]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.43.47:350][902]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.05.06-13.44.09:667][508]BlueprintLog: New page: Compile BP_PlayerController
+[2022.05.06-13.44.09:715][508]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.05.06-13.44.09:764][508]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_PlayerController0179C80E4FB6A73959C2ADBF07A08E1A.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Controllers/BP_PlayerController.uasset'
+[2022.05.06-13.44.09:774][508]AssetCheck: New page: Asset Save: BP_PlayerController
+[2022.05.06-13.44.09:774][508]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Controllers/BP_PlayerController.BP_PlayerController
+[2022.05.06-13.44.20:937][684]LogSlate: Window 'Message' being destroyed
+[2022.05.06-13.44.20:941][684]Message dialog closed, result: Yes, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2022.05.06-13.44.21:776][776]BlueprintLog: New page: Compile BP_PlayerController
+[2022.05.06-13.44.21:824][776]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.05.06-13.44.21:866][776]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_PlayerController2AD9F2DB497C6B30ED058E859AF0AAA6.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Controllers/BP_PlayerController.uasset'
+[2022.05.06-13.44.21:878][776]AssetCheck: New page: Asset Save: BP_PlayerController
+[2022.05.06-13.44.21:878][776]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Controllers/BP_PlayerController.BP_PlayerController
+[2022.05.06-13.44.30:926][838]BlueprintLog: New page: Compile BP_PlayerController
+[2022.05.06-13.44.30:973][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.05.06-13.44.31:021][838]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_PlayerControllerDB8F9CD94C27951BC587BCB7D9B09E59.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Controllers/BP_PlayerController.uasset'
+[2022.05.06-13.44.31:033][838]AssetCheck: New page: Asset Save: BP_PlayerController
+[2022.05.06-13.44.31:033][838]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Controllers/BP_PlayerController.BP_PlayerController
+[2022.05.06-13.46.32:981][326]BlueprintLog: New page: Compile BP_PlayerController
+[2022.05.06-13.46.33:030][326]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.05.06-13.46.33:072][326]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_PlayerController72B8458646D267580193BCB96B359269.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Controllers/BP_PlayerController.uasset'
+[2022.05.06-13.46.33:083][326]AssetCheck: New page: Asset Save: BP_PlayerController
+[2022.05.06-13.46.33:083][326]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Controllers/BP_PlayerController.BP_PlayerController
+[2022.05.06-13.47.18:184][388]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.47.18:208][388]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.47.18:208][388]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.47.18:259][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.05.06-13.47.34:834][229]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.47.34:858][229]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.47.34:858][229]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.47.34:909][229]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.05.06-13.47.46:144][525]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Tech/Blueprints/Widgets/WB_MainHud.WB_MainHud
+[2022.05.06-13.47.48:270][731]BlueprintLog: New page: Compile WB_MainHud
+[2022.05.06-13.47.48:323][731]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.05.06-13.47.55:236][525]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.47.55:270][525]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.47.55:270][525]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.47.55:324][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.05.06-13.48.58:097][461]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.48.58:120][461]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.48.58:120][461]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.48.58:176][461]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.05.06-13.49.15:057][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.05.06-13.49.15:208][448]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/GM_GameplayD7123B4D4395104B1C2477B8B1F89342.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Gamemode/GM_Gameplay.uasset'
+[2022.05.06-13.49.15:223][448]AssetCheck: New page: Asset Save: GM_Gameplay
+[2022.05.06-13.49.15:223][448]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Gamemode/GM_Gameplay.GM_Gameplay
+[2022.05.06-13.49.45:841][ 26]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.49.45:865][ 26]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.49.45:865][ 26]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.49.45:921][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.05.06-13.50.34:047][484]BlueprintLog: New page: Collapse to Function
+[2022.05.06-13.50.36:434][753]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.50.36:441][753]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] Could not find a function named "StartTimer" in 'GM_Gameplay_C'.
+Make sure 'GM_Gameplay_C' has been compiled for  Start Timer
+[2022.05.06-13.50.36:457][753]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.50.36:457][753]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.50.36:516][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2022.05.06-13.50.43:144][518]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.50.43:151][518]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] Could not find a function named "StartTimer" in 'GM_Gameplay_C'.
+Make sure 'GM_Gameplay_C' has been compiled for  Start Timer
+[2022.05.06-13.50.43:167][518]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.50.43:167][518]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.50.43:223][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.05.06-13.50.53:045][631]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.50.53:052][631]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] Could not find a function named "StartTimer" in 'GM_Gameplay_C'.
+Make sure 'GM_Gameplay_C' has been compiled for  Start Timer
+[2022.05.06-13.50.53:068][631]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.50.53:068][631]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.50.53:123][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.05.06-13.51.13:545][573]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.51.13:553][573]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] Could not find a function named "StartTimer" in 'GM_Gameplay_C'.
+Make sure 'GM_Gameplay_C' has been compiled for  Start Timer
+[2022.05.06-13.51.13:569][573]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.51.13:569][573]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.51.13:625][573]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.05.06-13.51.21:237][433]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.51.21:259][433]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.51.21:260][433]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.51.21:316][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.05.06-13.51.39:337][535]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.51.39:361][535]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.51.39:361][535]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.51.39:418][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2022.05.06-13.51.45:338][220]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.51.45:360][220]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.51.45:360][220]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.51.45:416][220]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.05.06-13.51.52:821][ 81]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.51.52:844][ 81]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.51.52:844][ 81]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.51.52:900][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.05.06-13.52.37:148][350]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.52.37:171][350]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.52.37:171][350]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.52.37:228][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2022.05.06-13.52.38:410][473]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.05.06-13.52.38:410][473]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Tech/Levels/L_MainMenu' took 0.031
+[2022.05.06-13.52.38:415][473]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Tech/Blueprints/Gamemode/GM_Gameplay] ([1] browsable assets)...
+[2022.05.06-13.52.38:415][473]OBJ SavePackage: Finished generating thumbnails for package [/Game/Tech/Blueprints/Gamemode/GM_Gameplay]
+[2022.05.06-13.52.38:557][473]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/GM_Gameplay_Auto12E65171049738D50429119B5A4B7B53E.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/Autosaves/Game/Tech/Blueprints/Gamemode/GM_Gameplay_Auto1.uasset'
+[2022.05.06-13.52.38:558][473]LogFileHelpers: Auto-saving content packages took 0.145
+[2022.05.06-13.53.03:416][388]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.53.03:440][388]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.53.03:440][388]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.53.03:495][388]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.05.06-13.53.17:553][ 32]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2022.05.06-13.53.17:561][ 32]AnimBlueprintLog: Warning: SLOTNODE: 'DefaultSlot' in animation instance class ABP_Player_C already exists. Remove duplicates from the animation graph for this class.
+[2022.05.06-13.53.37:018][259]LogEditorViewport: Clicking on Actor (LMB): BP_SpawnPoint_C (BP_SpawnPoint)
+[2022.05.06-13.54.00:065][872]LogContentBrowser: Attempting asset rename: Debug -> Debug
+[2022.05.06-13.54.20:080][ 75]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Hazards/BP_Bees.BP_Bees_C' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Bees.PackageMetaData'
+[2022.05.06-13.54.20:080][ 75]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Hazards/BP_Bees.BP_Bees:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Bees.PackageMetaData'
+[2022.05.06-13.54.20:080][ 75]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Hazards/BP_Bees.SKEL_BP_Bees_C:BndEvt__BP_Beeeeeees_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Bees.PackageMetaData'
+[2022.05.06-13.54.20:080][ 75]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Hazards/BP_Bees.SKEL_BP_Bees_C:UserConstructionScript' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Bees.PackageMetaData'
+[2022.05.06-13.54.20:080][ 75]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Hazards/BP_Bees.SKEL_BP_Bees_C' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Bees.PackageMetaData'
+[2022.05.06-13.54.20:103][ 75]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_Bees2F4412CE43DF22806C6DBDADAD79E269.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/Hazards/BP_Bees.uasset'
+[2022.05.06-13.54.20:194][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2022.05.06-13.54.20:229][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.05.06-13.54.20:254][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.05.06-13.54.20:374][ 75]AssetCheck: New page: Asset Save: BP_Bees
+[2022.05.06-13.54.20:375][ 75]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/Hazards/BP_Bees.BP_Bees
+[2022.05.06-13.54.23:308][388]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.06-13.54.23:336][388]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.06-13.54.24:904][573]LogContentBrowser: Attempting asset rename: NewFolder -> Puzzles
+[2022.05.06-13.54.24:904][573]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.06-13.54.28:381][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Chest.BP_Chest_C' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Chest.PackageMetaData'
+[2022.05.06-13.54.28:381][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Chest.BP_Chest:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Chest.PackageMetaData'
+[2022.05.06-13.54.28:382][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Chest.SKEL_BP_Chest_C:UserConstructionScript' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Chest.PackageMetaData'
+[2022.05.06-13.54.28:382][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Chest.SKEL_BP_Chest_C' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Chest.PackageMetaData'
+[2022.05.06-13.54.28:385][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_LightBeamSpawner.BP_LightBeamSpawner:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_LightBeamSpawner.PackageMetaData'
+[2022.05.06-13.54.28:385][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_LightBeamSpawner.BP_LightBeamSpawner_C' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_LightBeamSpawner.PackageMetaData'
+[2022.05.06-13.54.28:385][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_LightBeamSpawner.BP_LightBeamSpawner:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_LightBeamSpawner.PackageMetaData'
+[2022.05.06-13.54.28:385][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_LightBeamSpawner.BP_LightBeamSpawner:SpawnLine1.K2Node_FunctionEntry_0' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_LightBeamSpawner.PackageMetaData'
+[2022.05.06-13.54.28:385][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_LightBeamSpawner.SKEL_BP_LightBeamSpawner_C:ReceiveBeginPlay' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_LightBeamSpawner.PackageMetaData'
+[2022.05.06-13.54.28:385][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_LightBeamSpawner.SKEL_BP_LightBeamSpawner_C:UserConstructionScript' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_LightBeamSpawner.PackageMetaData'
+[2022.05.06-13.54.28:385][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_LightBeamSpawner.SKEL_BP_LightBeamSpawner_C' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_LightBeamSpawner.PackageMetaData'
+[2022.05.06-13.54.28:385][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_LightBeamSpawner.BP_LightBeamSpawner_C:ReceiveBeginPlay' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_LightBeamSpawner.PackageMetaData'
+[2022.05.06-13.54.28:387][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Mirror.BP_Mirror:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Mirror.PackageMetaData'
+[2022.05.06-13.54.28:387][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Mirror.BP_Mirror_C' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Mirror.PackageMetaData'
+[2022.05.06-13.54.28:387][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Mirror.BP_Mirror:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Mirror.PackageMetaData'
+[2022.05.06-13.54.28:387][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Mirror.BP_Mirror:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Mirror.PackageMetaData'
+[2022.05.06-13.54.28:387][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Mirror.BP_Mirror:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Mirror.PackageMetaData'
+[2022.05.06-13.54.28:387][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Mirror.SKEL_BP_Mirror_C:ReceiveBeginPlay' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Mirror.PackageMetaData'
+[2022.05.06-13.54.28:387][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Mirror.SKEL_BP_Mirror_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Mirror.PackageMetaData'
+[2022.05.06-13.54.28:387][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Mirror.SKEL_BP_Mirror_C:ReceiveTick' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Mirror.PackageMetaData'
+[2022.05.06-13.54.28:387][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Mirror.SKEL_BP_Mirror_C:UserConstructionScript' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Mirror.PackageMetaData'
+[2022.05.06-13.54.28:387][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Mirror.SKEL_BP_Mirror_C:Reflect' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Mirror.PackageMetaData'
+[2022.05.06-13.54.28:387][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Mirror.SKEL_BP_Mirror_C' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Mirror.PackageMetaData'
+[2022.05.06-13.54.28:387][953]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/Puzzles/BP_Mirror.BP_Mirror_C:Reflect' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Mirror.PackageMetaData'
+[2022.05.06-13.54.28:430][953]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_Chest82CF67554F575DDFD40462946CC2E9BC.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/Puzzles/BP_Chest.uasset'
+[2022.05.06-13.54.28:432][953]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_Chest1DB513AF450899BD9971A9B174B208A6.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/BP_Chest.uasset'
+[2022.05.06-13.54.28:454][953]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_LightBeamSpawner7172031941AB76EAF103A5BA297A09C4.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/Puzzles/BP_LightBeamSpawner.uasset'
+[2022.05.06-13.54.28:490][953]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_Mirror11DE1CB444773C24704214A7ACF4F950.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/Puzzles/BP_Mirror.uasset'
+[2022.05.06-13.54.28:594][953]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.05.06-13.54.28:622][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.05.06-13.54.28:655][953]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.05.06-13.54.28:682][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.05.06-13.54.28:803][953]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-13.54.28:803][953]LogContentValidation: Display: Validating ObjectRedirector /Game/Tech/Blueprints/Placeables/BP_Chest.BP_Chest
+[2022.05.06-13.54.28:803][953]LogContentValidation: Display: Validating ObjectRedirector /Game/Tech/Blueprints/Placeables/BP_Chest.Default__BP_Chest_C
+[2022.05.06-13.54.28:803][953]LogContentValidation: Display: Validating ObjectRedirector /Game/Tech/Blueprints/Placeables/BP_Chest.BP_Chest_C
+[2022.05.06-13.54.28:803][953]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/Puzzles/BP_Mirror.BP_Mirror
+[2022.05.06-13.54.28:803][953]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/Puzzles/BP_LightBeamSpawner.BP_LightBeamSpawner
+[2022.05.06-13.54.28:803][953]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/Puzzles/BP_Chest.BP_Chest
+[2022.05.06-13.54.33:595][489]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.05.06-13.54.33:618][489]LogContentBrowser: Creating deferred item: NewFolder
+[2022.05.06-13.54.37:293][928]LogContentBrowser: Attempting asset rename: NewFolder -> SpawnPoints
+[2022.05.06-13.54.37:293][928]LogContentBrowser: End creating deferred item NewFolder
+[2022.05.06-13.54.40:598][294]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_SpawnPoint.PackageMetaData'
+[2022.05.06-13.54.40:598][294]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint_C' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_SpawnPoint.PackageMetaData'
+[2022.05.06-13.54.40:598][294]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_SpawnPoint.PackageMetaData'
+[2022.05.06-13.54.40:598][294]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_SpawnPoint.PackageMetaData'
+[2022.05.06-13.54.40:598][294]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_SpawnPoint.PackageMetaData'
+[2022.05.06-13.54.40:598][294]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.SKEL_BP_SpawnPoint_C:ReceiveBeginPlay' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_SpawnPoint.PackageMetaData'
+[2022.05.06-13.54.40:598][294]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.SKEL_BP_SpawnPoint_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_SpawnPoint.PackageMetaData'
+[2022.05.06-13.54.40:598][294]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.SKEL_BP_SpawnPoint_C:ReceiveTick' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_SpawnPoint.PackageMetaData'
+[2022.05.06-13.54.40:598][294]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.SKEL_BP_SpawnPoint_C:UserConstructionScript' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_SpawnPoint.PackageMetaData'
+[2022.05.06-13.54.40:598][294]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.SKEL_BP_SpawnPoint_C' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_SpawnPoint.PackageMetaData'
+[2022.05.06-13.54.40:599][294]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint_C:UserConstructionScript' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_SpawnPoint.PackageMetaData'
+[2022.05.06-13.54.40:623][294]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPoint27D7FF9E4B378E34D10C5D8597B449FA.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.uasset'
+[2022.05.06-13.54.40:625][294]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPointA07933C541DF0ACFFAFA59942DFCF392.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/BP_SpawnPoint.uasset'
+[2022.05.06-13.54.40:751][294]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-13.54.40:751][294]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.54.40:751][294]LogContentValidation: Display: Validating ObjectRedirector /Game/Tech/Blueprints/Placeables/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.54.40:751][294]LogContentValidation: Display: Validating ObjectRedirector /Game/Tech/Blueprints/Placeables/BP_SpawnPoint.Default__BP_SpawnPoint_C
+[2022.05.06-13.54.40:751][294]LogContentValidation: Display: Validating ObjectRedirector /Game/Tech/Blueprints/Placeables/BP_SpawnPoint.BP_SpawnPoint_C
+[2022.05.06-13.54.43:532][591]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_Checkpoint.BP_Checkpoint:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Checkpoint.PackageMetaData'
+[2022.05.06-13.54.43:532][591]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_Checkpoint.BP_Checkpoint_C' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Checkpoint.PackageMetaData'
+[2022.05.06-13.54.43:532][591]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_Checkpoint.SKEL_BP_Checkpoint_C:BndEvt__BP_Checkpoint_Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Checkpoint.PackageMetaData'
+[2022.05.06-13.54.43:532][591]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_Checkpoint.SKEL_BP_Checkpoint_C:ReceiveBeginPlay' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Checkpoint.PackageMetaData'
+[2022.05.06-13.54.43:532][591]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_Checkpoint.SKEL_BP_Checkpoint_C:UserConstructionScript' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Checkpoint.PackageMetaData'
+[2022.05.06-13.54.43:532][591]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_Checkpoint.SKEL_BP_Checkpoint_C' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Checkpoint.PackageMetaData'
+[2022.05.06-13.54.43:532][591]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_Checkpoint.BP_Checkpoint_C:ReceiveBeginPlay' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Checkpoint.PackageMetaData'
+[2022.05.06-13.54.43:532][591]LogMetaData: Removing '/Game/Tech/Blueprints/Placeables/SpawnPoints/BP_Checkpoint.BP_Checkpoint_C:UserConstructionScript' ref from Metadata '/Game/Tech/Blueprints/Placeables/BP_Checkpoint.PackageMetaData'
+[2022.05.06-13.54.43:557][591]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_Checkpoint55A6D5A94B5511981B37CBA47A541F75.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_Checkpoint.uasset'
+[2022.05.06-13.54.43:559][591]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_Checkpoint5BBC4CFD4ED4B0F49C3555B201D24803.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/BP_Checkpoint.uasset'
+[2022.05.06-13.54.43:678][591]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-13.54.43:678][591]LogContentValidation: Display: Validating ObjectRedirector /Game/Tech/Blueprints/Placeables/BP_Checkpoint.BP_Checkpoint
+[2022.05.06-13.54.43:678][591]LogContentValidation: Display: Validating ObjectRedirector /Game/Tech/Blueprints/Placeables/BP_Checkpoint.Default__BP_Checkpoint_C
+[2022.05.06-13.54.43:678][591]LogContentValidation: Display: Validating ObjectRedirector /Game/Tech/Blueprints/Placeables/BP_Checkpoint.BP_Checkpoint_C
+[2022.05.06-13.54.43:678][591]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_Checkpoint.BP_Checkpoint
+[2022.05.06-13.55.24:484][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.05.06-13.55.24:626][ 81]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/GM_Gameplay0CD0C0CC487C2E25AD0D63BE06C62561.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Gamemode/GM_Gameplay.uasset'
+[2022.05.06-13.55.24:639][ 81]AssetCheck: New page: Asset Save: GM_Gameplay
+[2022.05.06-13.55.24:639][ 81]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Gamemode/GM_Gameplay.GM_Gameplay
+[2022.05.06-13.55.30:150][710]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.55.39:241][738]BlueprintLog: New page: Compile BP_SpawnPoint
+[2022.05.06-13.55.39:306][738]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.05.06-13.55.39:361][738]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPoint1796A0BE402E45456C1A2ABE777DA7C1.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.uasset'
+[2022.05.06-13.55.39:377][738]AssetCheck: New page: Asset Save: BP_SpawnPoint
+[2022.05.06-13.55.39:377][738]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.55.46:552][560]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.05.06-13.55.46:597][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.06-13.55.46:622][560]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/L_MainMenuC789903B4EE4F1DA51B1228206F9CC40.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Levels/L_MainMenu.umap'
+[2022.05.06-13.55.46:634][560]LogFileHelpers: Saving map 'L_MainMenu' took 0.066
+[2022.05.06-13.55.46:771][560]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/GM_GameplayF8BB792143DA2344D33B5FBA58C96104.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Gamemode/GM_Gameplay.uasset'
+[2022.05.06-13.55.46:802][560]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.06-13.55.46:802][560]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Gamemode/GM_Gameplay.GM_Gameplay
+[2022.05.06-13.55.46:802][560]LogContentValidation: Display: Validating World /Game/Tech/Levels/L_MainMenu.L_MainMenu
+[2022.05.06-13.56.01:018][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.05.06-13.56.03:235][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.05.06-13.56.03:260][441]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/L_MainMenuE85C9F334C6E06079DE4718251C7A536.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Levels/L_MainMenu.umap'
+[2022.05.06-13.56.03:283][441]AssetCheck: New page: Asset Save: L_MainMenu
+[2022.05.06-13.56.03:283][441]LogContentValidation: Display: Validating World /Game/Tech/Levels/L_MainMenu.L_MainMenu
+[2022.05.06-13.56.34:860][149]BlueprintLog: New page: Compile BP_SpawnPoint
+[2022.05.06-13.56.34:924][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.05.06-13.56.34:979][149]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPointF54C481A4659E380F2BBBC9A4771431A.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.uasset'
+[2022.05.06-13.56.34:993][149]AssetCheck: New page: Asset Save: BP_SpawnPoint
+[2022.05.06-13.56.34:993][149]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.56.36:470][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.05.06-13.56.36:517][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.05.06-13.56.36:541][316]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/L_MainMenuF744F24D434386F355BA5089F86EA608.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Levels/L_MainMenu.umap'
+[2022.05.06-13.56.36:552][316]LogFileHelpers: Saving map 'L_MainMenu' took 0.063
+[2022.05.06-13.56.36:563][316]AssetCheck: New page: Asset Save: L_MainMenu
+[2022.05.06-13.56.36:563][316]LogContentValidation: Display: Validating World /Game/Tech/Levels/L_MainMenu.L_MainMenu
+[2022.05.06-13.56.38:333][509]LogRenderer: Reallocating scene render targets to support 1184x692 Format 10 NumSamples 1 (Frame:1).
+[2022.05.06-13.56.44:702][224]BlueprintLog: New page: Compile BP_SpawnPoint
+[2022.05.06-13.56.44:764][224]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.05.06-13.56.44:814][224]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPointDDBE61E54DC0A0DBB5839B86B4C17D3F.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.uasset'
+[2022.05.06-13.56.44:829][224]AssetCheck: New page: Asset Save: BP_SpawnPoint
+[2022.05.06-13.56.44:829][224]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.57.01:886][156]BlueprintLog: New page: Compile BP_SpawnPoint
+[2022.05.06-13.57.01:952][156]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.05.06-13.57.02:009][156]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPointCD6E69CB41AF942576599A88414F0D1C.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.uasset'
+[2022.05.06-13.57.02:022][156]AssetCheck: New page: Asset Save: BP_SpawnPoint
+[2022.05.06-13.57.02:022][156]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.57.07:786][813]BlueprintLog: New page: Compile BP_SpawnPoint
+[2022.05.06-13.57.07:865][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.05.06-13.57.07:926][813]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPoint82F9288F448F33C6200CC1BF64C16640.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.uasset'
+[2022.05.06-13.57.07:938][813]AssetCheck: New page: Asset Save: BP_SpawnPoint
+[2022.05.06-13.57.07:938][813]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.57.31:879][555]BlueprintLog: New page: Compile BP_SpawnPoint
+[2022.05.06-13.57.31:943][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.05.06-13.57.32:007][555]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPoint5301595146C57174856075839EC24A2C.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.uasset'
+[2022.05.06-13.57.32:022][555]AssetCheck: New page: Asset Save: BP_SpawnPoint
+[2022.05.06-13.57.32:022][555]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.57.55:029][ 94]BlueprintLog: New page: Compile BP_SpawnPoint
+[2022.05.06-13.57.55:108][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.05.06-13.57.55:177][ 94]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPoint47E009D74DD08FBF44EFEC91397754E3.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.uasset'
+[2022.05.06-13.57.55:192][ 94]AssetCheck: New page: Asset Save: BP_SpawnPoint
+[2022.05.06-13.57.55:192][ 94]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.57.59:456][555]BlueprintLog: New page: Compile BP_SpawnPoint
+[2022.05.06-13.57.59:521][555]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.05.06-13.57.59:577][555]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPointA9598F8442C6B0C750FFC7BC82CD756C.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.uasset'
+[2022.05.06-13.57.59:590][555]AssetCheck: New page: Asset Save: BP_SpawnPoint
+[2022.05.06-13.57.59:590][555]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.58.03:388][  1]BlueprintLog: New page: Compile BP_SpawnPoint
+[2022.05.06-13.58.03:453][  1]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.05.06-13.58.03:510][  1]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPoint5138DCDA4179F6C181B3A081940B7464.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.uasset'
+[2022.05.06-13.58.03:523][  1]AssetCheck: New page: Asset Save: BP_SpawnPoint
+[2022.05.06-13.58.03:523][  1]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.58.17:764][630]BlueprintLog: New page: Compile BP_SpawnPoint
+[2022.05.06-13.58.17:830][630]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.05.06-13.58.17:894][630]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPoint15D92BFE41B17513EEF847BCFEDAFFED.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.uasset'
+[2022.05.06-13.58.17:907][630]AssetCheck: New page: Asset Save: BP_SpawnPoint
+[2022.05.06-13.58.17:907][630]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.58.21:651][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.05.06-13.58.21:705][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.05.06-13.58.21:728][ 32]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/L_MainMenuDC515A8540306192F382698D03ADABF9.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Levels/L_MainMenu.umap'
+[2022.05.06-13.58.21:740][ 32]LogFileHelpers: Saving map 'L_MainMenu' took 0.065
+[2022.05.06-13.58.21:752][ 32]AssetCheck: New page: Asset Save: L_MainMenu
+[2022.05.06-13.58.21:752][ 32]LogContentValidation: Display: Validating World /Game/Tech/Levels/L_MainMenu.L_MainMenu
+[2022.05.06-13.58.46:391][877]BlueprintLog: New page: Compile BP_SpawnPoint
+[2022.05.06-13.58.46:466][877]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.05.06-13.58.46:528][877]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPoint2BBD45E64C959ACB0A72ADB5A30A4483.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.uasset'
+[2022.05.06-13.58.46:542][877]AssetCheck: New page: Asset Save: BP_SpawnPoint
+[2022.05.06-13.58.46:542][877]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.58.58:811][269]BlueprintLog: New page: Compile BP_SpawnPoint
+[2022.05.06-13.58.58:877][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.05.06-13.58.58:946][269]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPointB6114B3A4D85CFEFE150D8BEDB3AED3A.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.uasset'
+[2022.05.06-13.58.58:962][269]AssetCheck: New page: Asset Save: BP_SpawnPoint
+[2022.05.06-13.58.58:962][269]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.59.01:900][597]BlueprintLog: New page: Compile BP_SpawnPoint
+[2022.05.06-13.59.01:965][597]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.05.06-13.59.02:030][597]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/BP_SpawnPoint4C28D09E40C0BB736031FE851C37DF24.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.uasset'
+[2022.05.06-13.59.02:043][597]AssetCheck: New page: Asset Save: BP_SpawnPoint
+[2022.05.06-13.59.02:043][597]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint
+[2022.05.06-13.59.04:846][879]LogEditorViewport: Clicking on Actor (LMB): BP_SpawnPoint_C (BP_SpawnPoint)
+[2022.05.06-13.59.18:746][457]Cmd: TRANSACTION UNDO
+[2022.05.06-13.59.18:746][457]LogEditorTransaction: Undo Move Components
+[2022.05.06-13.59.20:030][549]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.05.06-13.59.20:055][549]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/L_MainMenu67AABD6F424F9958A21FCFB36DCCD630.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Levels/L_MainMenu.umap'
+[2022.05.06-13.59.20:080][549]AssetCheck: New page: Asset Save: L_MainMenu
+[2022.05.06-13.59.20:080][549]LogContentValidation: Display: Validating World /Game/Tech/Levels/L_MainMenu.L_MainMenu
+[2022.05.06-13.59.22:078][770]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.05.06-13.59.23:693][947]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-13.59.23:717][947]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.59.23:717][947]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-13.59.23:774][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.05.06-13.59.28:815][523]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.05.06-13.59.28:815][523]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.06-13.59.34:515][147]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (SkeletalMesh)
+[2022.05.06-13.59.35:888][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor4)
+[2022.05.06-13.59.36:517][354]LogEditorViewport: Clicking on Actor (LMB): BP_SpawnPoint_C (BP_SpawnPoint)
+[2022.05.06-13.59.38:897][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.05.06-13.59.38:922][624]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/L_MainMenuEAFD08B64FEAA375AB2AB5A45972D7B7.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Levels/L_MainMenu.umap'
+[2022.05.06-13.59.38:943][624]AssetCheck: New page: Asset Save: L_MainMenu
+[2022.05.06-13.59.38:943][624]LogContentValidation: Display: Validating World /Game/Tech/Levels/L_MainMenu.L_MainMenu
+[2022.05.06-14.00.21:603][572]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-14.00.21:634][572]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-14.00.21:634][572]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-14.00.21:687][572]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.05.06-14.00.23:687][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2022.05.06-14.00.23:833][785]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/GM_GameplayE0253C0448FAE89D480A73B4BBB6FF26.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Gamemode/GM_Gameplay.uasset'
+[2022.05.06-14.00.23:845][785]AssetCheck: New page: Asset Save: GM_Gameplay
+[2022.05.06-14.00.23:845][785]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Gamemode/GM_Gameplay.GM_Gameplay
+[2022.05.06-14.00.53:172][234]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-14.00.53:195][234]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-14.00.53:195][234]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-14.00.53:247][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.05.06-14.01.44:658][304]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-14.01.44:681][304]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-14.01.44:681][304]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-14.01.44:736][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.05.06-14.01.54:144][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.05.06-14.01.55:303][ 82]LogSlate: Window 'Save Content' being destroyed
+[2022.05.06-14.01.56:740][238]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.05.06-14.01.56:878][238]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/GM_GameplayCFBBAC4442ED68EEA3A76C9614B025A0.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Gamemode/GM_Gameplay.uasset'
+[2022.05.06-14.01.56:891][238]AssetCheck: New page: Asset Save: GM_Gameplay
+[2022.05.06-14.01.56:891][238]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Gamemode/GM_Gameplay.GM_Gameplay
+[2022.05.06-14.01.57:459][306]BlueprintLog: New page: Compile GM_Gameplay
+[2022.05.06-14.01.57:482][306]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator0) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-14.01.57:482][306]LogBlueprint: Error: [AssetLog] D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Content\Tech\Blueprints\Gamemode\GM_Gameplay.uasset: [Compiler] The current value (NewEnumerator1) of the ' Player ' pin is invalid: Expected a valid unsigned number for a byte property
+[2022.05.06-14.01.57:536][306]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.05.06-14.02.25:062][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.05.06-14.02.25:216][512]LogSavePackage: Moving '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Saved/GM_Gameplay728C64FA4820F6F80EFBFEB08CA6E58A.tmp' to '../../../../../../Steven/Documents/Unreal Projects/Uni_Collab_Cooptographers/CooptographersProject/Cooptographers/Content/Tech/Blueprints/Gamemode/GM_Gameplay.uasset'
+[2022.05.06-14.02.25:228][512]AssetCheck: New page: Asset Save: GM_Gameplay
+[2022.05.06-14.02.25:228][512]LogContentValidation: Display: Validating Blueprint /Game/Tech/Blueprints/Gamemode/GM_Gameplay.GM_Gameplay
+[2022.05.06-14.02.32:527][385]LogContentBrowser: Attempting asset rename: BP_SpawnPoint -> BP_Spawnpoint
+[2022.05.06-14.02.32:602][385]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.05.06-14.02.33:602][385]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.000 s
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: === Handled ensure: ===
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: 
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: Found circular redirect from /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_SpawnPoint.BP_SpawnPoint to /Game/Tech/Blueprints/Placeables/SpawnPoints/BP_Spawnpoint.BP_Spawnpoint! Returning None instead
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: Stack: 
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff913887093 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9134327e0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff91376f1a6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9137882be UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff913467c47 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff90ef15082 UE4Editor-Core.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff91377fc33 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff91367e789 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9135d57f6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff913733e37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9137343b4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9135d8543 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9135d5ffc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9135d590e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff913733e37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9136c9115 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9137343b4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9135d8543 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9135d5ffc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9136c94a4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9136c7a90 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9136c74fb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9100f5f10 UE4Editor-Engine.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9100f5b04 UE4Editor-Engine.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff913716742 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9137389cb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff91371df5c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff90d8226be UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff90d8231ae UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff90d85e6b2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff90d85afec UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff90e0ddb77 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff90db5a5c3 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff90db58edd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff90db81f80 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff903f3e137 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff903edfd9a UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff903f58b02 UE4Editor-AssetTools.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff8f2b7f233 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff8f2b7f521 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff8f2b7f5fb UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff904e88d56 UE4Editor-ContentBrowserData.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff9048c402e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff904908ebf UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.06-14.02.33:602][385]LogOutputDevice: Error: [Callstack] 0x00007ff904928c3b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff9049080e7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff915205f44 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff9151eb7f7 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff915194c48 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff915173757 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff9151f3c06 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff9151f5018 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff9150ef024 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff914f325b2 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff914f9e368 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff914f92226 UE4Editor-Slate.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff97a4db958 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff97a4c9197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff97a4de389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff97a4c4310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff9913be858 USER32.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff9913be299 USER32.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff97a4df914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff6d3fd8848 UE4Editor.exe!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff6d3ff117c UE4Editor.exe!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff6d3ff125a UE4Editor.exe!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff6d40052bd UE4Editor.exe!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff6d4007fea UE4Editor.exe!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff990157034 KERNEL32.DLL!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: [Callstack] 0x00007ff9919c2651 ntdll.dll!UnknownFunction []
+[2022.05.06-14.02.33:603][385]LogOutputDevice: Error: 
