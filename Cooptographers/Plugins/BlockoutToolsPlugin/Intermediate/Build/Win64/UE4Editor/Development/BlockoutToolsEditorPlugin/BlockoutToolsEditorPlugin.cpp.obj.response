@@ -31,9 +31,9 @@
 /wd4244
 /wd4838
 /I .
-/I C:\Users\L020837J\Documents\CollabProject\Cooptographers\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private
-/I C:\Users\L020837J\Documents\CollabProject\Cooptographers\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Public
-/I C:\Users\L020837J\Documents\CollabProject\Cooptographers\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Private
+/I "D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private"
+/I "D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Public"
+/I "D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Private"
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
 /I Runtime
 /I Runtime\CoreUObject\Public
@@ -233,9 +233,9 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I C:\Users\L020837J\Documents\CollabProject\Cooptographers\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlockoutToolsPlugin
-/I C:\Users\L020837J\Documents\CollabProject\Cooptographers\Plugins\BlockoutToolsPlugin\Source
-/I C:\Users\L020837J\Documents\CollabProject\Cooptographers\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Public
+/I "D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlockoutToolsPlugin"
+/I "D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Plugins\BlockoutToolsPlugin\Source"
+/I "D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Public"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -259,18 +259,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.28.29910\INCLUDE"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\L020837J\Documents\CollabProject\Cooptographers\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Yu"C:\Users\L020837J\Documents\CollabProject\Cooptographers\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
-/Fp"C:\Users\L020837J\Documents\CollabProject\Cooptographers\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
-"C:\Users\L020837J\Documents\CollabProject\Cooptographers\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Private\BlockoutToolsEditorPlugin.cpp"
-/FI"C:\Users\L020837J\Documents\CollabProject\Cooptographers\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\Definitions.BlockoutToolsEditorPlugin.h"
-/Fo"C:\Users\L020837J\Documents\CollabProject\Cooptographers\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\BlockoutToolsEditorPlugin.cpp.obj"
+/FI"D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Yu"D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h"
+/Fp"D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.pch"
+"D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Private\BlockoutToolsEditorPlugin.cpp"
+/FI"D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\Definitions.BlockoutToolsEditorPlugin.h"
+/Fo"D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\BlockoutToolsEditorPlugin.cpp.obj"
 /TP
 /GR-
 /W4
