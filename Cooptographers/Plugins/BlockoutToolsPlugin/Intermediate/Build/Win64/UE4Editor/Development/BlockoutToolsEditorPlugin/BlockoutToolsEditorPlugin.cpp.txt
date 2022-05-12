@@ -1,11 +1,11 @@
-D:\Steven\Documents\Unreal Projects\ParkourParadiseProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\Definitions.BlockoutToolsEditorPlugin.h
-D:\Steven\Documents\Unreal Projects\ParkourParadiseProject\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Public\BlockoutToolsEditorPlugin.h
+D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Development\BlockoutToolsEditorPlugin\Definitions.BlockoutToolsEditorPlugin.h
+D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsEditorPlugin\Public\BlockoutToolsEditorPlugin.h
 D:\Apps\Unreal Versions\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateStyle.h
 D:\Apps\Unreal Versions\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
 D:\Apps\Unreal Versions\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
 D:\Apps\Unreal Versions\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
 D:\Apps\Unreal Versions\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
-D:\Steven\Documents\Unreal Projects\ParkourParadiseProject\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private\BlockoutToolsParent.h
+D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Plugins\BlockoutToolsPlugin\Source\BlockoutToolsPlugin\Private\BlockoutToolsParent.h
 D:\Apps\Unreal Versions\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/BillboardComponent.h
 D:\Apps\Unreal Versions\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BillboardComponent.generated.h
 D:\Apps\Unreal Versions\UE_4.26\Engine\Source\Runtime/Engine/Classes/Materials/MaterialInstanceDynamic.h
@@ -14,7 +14,7 @@ D:\Apps\Unreal Versions\UE_4.26\Engine\Source\Runtime\Engine\Classes\Materials/M
 D:\Apps\Unreal Versions\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceBasePropertyOverrides.generated.h
 D:\Apps\Unreal Versions\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstance.generated.h
 D:\Apps\Unreal Versions\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\MaterialInstanceDynamic.generated.h
-D:\Steven\Documents\Unreal Projects\ParkourParadiseProject\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlockoutToolsPlugin\BlockoutToolsParent.generated.h
+D:\Steven\Documents\Unreal Projects\Uni_Collab_Cooptographers\CooptographersProject\Cooptographers\Plugins\BlockoutToolsPlugin\Intermediate\Build\Win64\UE4Editor\Inc\BlockoutToolsPlugin\BlockoutToolsParent.generated.h
 D:\Apps\Unreal Versions\UE_4.26\Engine\Source\Editor\PlacementMode/Public/IPlacementModeModule.h
 D:\Apps\Unreal Versions\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\ActorFactories/ActorFactory.h
 D:\Apps\Unreal Versions\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ActorFactory.generated.h
